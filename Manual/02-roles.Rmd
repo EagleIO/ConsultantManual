@@ -1,0 +1,7 @@
+# Responsibilities
+
+These individuals function as team leads - they are responsible for the bulleted information, but they are expected to execute tasks within teams:
+
+<center>
+![](images/roles.PNG)
+</center> 

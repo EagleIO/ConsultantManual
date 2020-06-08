@@ -1,0 +1,35 @@
+# Governance
+
+## Meetings
+* Time requirements of Eagle IO members 
+    + Necessary # of meetings: attend every meeting [miss only one]
+        + If missing more than one meeting, then try calling in or provide a valid reason. 
+    + Keeping track of the inbox on your assigned week
+
+## Mentorship Program Management
+* How to match mentors and mentees (depending on the success of this        semester) consider the method used to match or if other things should be   considered.
+    + Form a survey team to create a qualtrics and do the matching process
+    + Consolidate questions (5): name, hometown, undergrad major/minor,         part/full time, and academic/applied 
+* Duration or partnership between mentee and mentor (semester or annual)
+    + Mandatory to keep them mentor/mentee partnership for a semester
+        + Ask them if they want to keep the formal relationship and/or opt out and   be a mentor themselves 
+* Involvement of professors in mentor program beyond Dr. Kulas and Dr. Dan
+    + Meetings between mentors and mentees at least 3 
+        + Meeting 1: Individual Development Plan
+        + Meeting 2: I/O related event
+        + Meeting 3: formal/informal event
+
+## Consultant Development Plan
+* Either have each consultant discuss and fill out their own individual development plan in terms of Eagle I.O. or have a development (filled out together) for the organization
+    + Potential skills: professional, technical, or R-related skills
+
+Share the Organization’s Structure: All students are required to write and submit a constitution. [See Chapter Two for sample constitution](https://www.utdallas.edu/soc/manual/04/#leadership)
+
++ Constitution and by-laws
++ Job descriptions/role classifications
++ Organizational goals and objectives
++ Status reports on ongoing projects
++ Evaluation of previous projects and programs
++ Resources and contact lists
++ Mailing lists
++ Historical records, scrapbooks, and equipment
